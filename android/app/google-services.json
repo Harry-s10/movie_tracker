@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475304278747",
+    "project_id": "movietracker-3fb93",
+    "storage_bucket": "movietracker-3fb93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475304278747:android:b8a516c58d6685b27ceafe",
+        "android_client_info": {
+          "package_name": "com.hsoren.movie_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475304278747-ap9c1smke8ocucang53r00ootafom00m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgccEmAsW6MzLLarigdvijDpJpDzMb_AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475304278747-ap9c1smke8ocucang53r00ootafom00m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475304278747-74cg9g3q6tf8rtao6m6isnmplik8v239.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hsoren.movieTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
